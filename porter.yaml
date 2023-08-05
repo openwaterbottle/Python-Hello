@@ -1,3 +1,4 @@
 apps:
   my-worker:
+    type: worker
     run: "python helloworld.py" 
